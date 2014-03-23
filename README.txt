@@ -17,5 +17,5 @@ Wobble+ChromaAbberation (via FBO)
 Fisheye
 Cartesian to Polar
 
-![Screengrab](https://raw.githubusercontent.com/laserpilot/shaderSandbox/master/screengrab.png)
+[![Screengrab](https://raw.github.com/laserpilot/shaderSandbox/master/screengrab.png)]
 
