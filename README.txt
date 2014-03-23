@@ -8,12 +8,14 @@ Examples Include:
 Gauss Blur (eh..sorta)
 Wobble
 Rota (resize/rotate/manipulate a texture via a shader)
-Chromatic Abberation
-Bloom
+RGB channel shift
+Bloom (currently broken)
 BRCOSA (brightness, contrast, saturation)
-Luma Key
-Bloom+BRCOSA (via FBO)
+Luma Key (broken)
+Bloom+BRCOSA (via FBO) (broken)
 Wobble+ChromaAbberation (via FBO)
 Fisheye
 Cartesian to Polar
+
+![Screengrab](https://raw.githubusercontent.com/laserpilot/shaderSandbox/master/screengrab.png)
 
