@@ -47,7 +47,7 @@ void testApp::setup(){
 
 //--------------------------------------------------------------
 void testApp::update(){
-    vidGrabber.grabFrame();
+    vidGrabber.update();
     
     if (vidGrabber.isFrameNew()) {
         tex1=vidGrabber.getTextureReference();

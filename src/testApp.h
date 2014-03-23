@@ -35,5 +35,6 @@ class testApp : public ofBaseApp{
     
     int camWidth;
     int camHeight;
+    
     ofVideoGrabber vidGrabber;
 };
